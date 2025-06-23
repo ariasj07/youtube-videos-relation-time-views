@@ -12,3 +12,4 @@ For this project, I scraped the last 28 videos from the YouTube channel **@midud
 1. Run the scraper script to fetch the latest video data.
 2. Run the visualization script to generate charts showing the relationship.
 
+![Duration vs Views](test1.png)
