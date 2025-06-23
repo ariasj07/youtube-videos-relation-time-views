@@ -34,6 +34,7 @@ def fetch_data():
 
         browser.close()
 
+# This data was saved into data.txt and then pasted into the .py file for better illustration:
 seconds = [321, 873, 549, 600, 1188, 695, 498, 649, 731, 330, 966, 1038, 337, 434, 454, 704, 660, 787, 796, 802, 547, 805, 826, 1229, 878, 390, 262, 409]
 views = [{'num': '58', 'currency': 'k'}, {'num': '95', 'currency': 'k'}, {'num': '62', 'currency': 'k'}, {'num': '52', 'currency': 'k'}, {'num': '125', 'currency': 'k'}, {'num': '58', 'currency': 'k'}, {'num': '25', 'currency': 'k'}, {'num': '86', 'currency': 'k'}, {'num': '115', 'currency': 'k'}, {'num': '59', 'currency': 'k'}, {'num': '78', 'currency': 'k'}, {'num': '154', 'currency': 'k'}, {'num': '28', 'currency': 'k'}, {'num': '63', 'currency': 'k'}, {'num': '54', 'currency': 'k'}, {'num': '68', 'currency': 'k'}, {'num': '41', 'currency': 'k'}, {'num': '72', 'currency': 'k'}, {'num': '55', 'currency': 'k'}, {'num': '56', 'currency': 'k'}, {'num': '70', 'currency': 'k'}, {'num': '81', 'currency': 'k'}, {'num': '87', 'currency': 'k'}, {'num': '115', 'currency': 'k'}, {'num': '110', 'currency': 'k'}, {'num': '81', 'currency': 'k'}, {'num': '53', 'currency': 'k'}, {'num': '53', 'currency': 'k'}]
 
